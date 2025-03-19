@@ -6,8 +6,8 @@ from tinkoff.invest.utils import quotation_to_decimal
 
 import datetime
 
-BOT_TOKEN = '6611920891:AAGGua4p_M17SWJEockPfw6uvkVQv831ldU'
-TOKEN = "t.7KjVYzcGTH3BWE1vcInvoOCgNl3lrr-yATXiWAeula3hBwT4g6I-rbGgfRfEhFlp9_VMnLgVMvcj-aTipk6gjQ"
+BOT_TOKEN = 'BOT_TOKEN'
+TOKEN = "TOKEN"
 stock_figis = {
     'Rosneft': 'BBG004731354',
     'Gazprom': 'BBG004730RP0',
